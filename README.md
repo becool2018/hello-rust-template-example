@@ -1,3 +1,7 @@
+Latest changes
+[![Tests](https://github.com/becool2018/hello-rust-template-example/actions/workflows/tests.yml/badge.svg)](https://github.com/becool2018/hello-rust-template-example/actions/workflows/tests.yml)
+
+
 # rust-new-project-template
 A good starting point for a new Rust project
 
